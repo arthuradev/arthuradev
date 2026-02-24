@@ -86,13 +86,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/stats/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 
-<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/stats/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
-<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/stats/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
+<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top Languages" />
 
-<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/stats/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
-<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/stats/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time" />
+<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+<img src="https://raw.githubusercontent.com/arthuradev/arthuradev/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuradev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&locale=pt_BR" />
 
